@@ -4,3 +4,6 @@ I made an h1 header.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Work on this GitHub Assignment
+- [] Get it done
+- [] Send in assignment
